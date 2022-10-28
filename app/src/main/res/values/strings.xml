@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="_0">0</string>
+    <string name="button">Button</string>
+    <string name="count">COUNT</string>
+    <string name="toast">TOAST</string>
+    <string name="button_count">Button</string>
+    <string name="button_toast">TOAST</string>
+</resources>
